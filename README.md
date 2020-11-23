@@ -18,6 +18,20 @@ https://github.com/Flipkart/recyclerlistview
 ### List of useful JS packages
 - Recursive freeze: https://www.npmjs.com/package/deep-freeze
 - Generate unique ID: https://www.npmjs.com/package/uuid
+- Immutability: https://www.npmjs.com/package/seamless-immutable
+
+### List of useful blogs
+- Redux reselect: https://medium.com/@parkerdan/react-reselect-and-redux-b34017f8194c
+- https://medium.com/@adamrackis/normalizing-redux-stores-for-maximum-code-reuse-ae6e3844ae95
+- https://medium.com/@adamrackis/querying-a-redux-store-37db8c7f3b0f
+- http://blog.krawaller.se/posts/exploring-redux-middleware/
+- Redux thunk: https://medium.com/fullstack-academy/thunks-in-redux-the-basics-85e538a3fe60
+- https://decembersoft.com/posts/what-is-the-right-way-to-do-asynchronous-operations-in-redux/
+- https://medium.com/react-native-training/redux-4-ways-95a130da0cdc
+- https://medium.com/horrible-hacks/things-i-wish-i-knew-about-redux-9924abf2f9e0
+- https://medium.com/onfido-tech/exploring-redux-sagas-cc1fca2015ee
+- Dev.to redux topic: https://dev.to/t/redux
+
 
 ### List of useful react-native repos
 - https://github.com/attentiveness/reading
@@ -32,3 +46,7 @@ https://github.com/Flipkart/recyclerlistview
 - https://github.com/victorkvarghese/react-native-messenger
 - https://github.com/reduxjs/cra-template-redux
 - Redux undo: https://github.com/omnidan/redux-undo-boilerplate
+- Reset redux state after an action: https://github.com/omnidan/redux-recycle
+- Redux list of repos and blogs: https://github.com/markerikson/react-redux-links
+- Awesome redux: https://github.com/xgrommx/awesome-redux
+- Redux ecosystem: https://github.com/markerikson/redux-ecosystem-links
