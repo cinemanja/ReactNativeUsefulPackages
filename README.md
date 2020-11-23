@@ -17,6 +17,7 @@ https://github.com/Flipkart/recyclerlistview
 
 ### List of useful JS packages
 - Recursive freeze: https://www.npmjs.com/package/deep-freeze
+- Generate unique ID: https://www.npmjs.com/package/uuid
 
 ### List of useful react-native repos
 - https://github.com/attentiveness/reading
@@ -29,3 +30,5 @@ https://github.com/Flipkart/recyclerlistview
 - https://github.com/SKempin/Lyrics-King-React-Native
 - https://github.com/hasura/awesome-react-graphql
 - https://github.com/victorkvarghese/react-native-messenger
+- https://github.com/reduxjs/cra-template-redux
+- Redux undo: https://github.com/omnidan/redux-undo-boilerplate
