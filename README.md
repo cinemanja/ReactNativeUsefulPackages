@@ -15,6 +15,9 @@ https://github.com/Flipkart/recyclerlistview
 - Keyboard manager: https://github.com/douglasjunior/react-native-keyboard-manager
 - Parallax View: https://github.com/i6mi6/react-native-parallax-scroll-view
 
+### List of useful JS packages
+- Recursive freeze: https://www.npmjs.com/package/deep-freeze
+
 ### List of useful react-native repos
 - https://github.com/attentiveness/reading
 - Useful components: https://github.com/rilyu/teaset
