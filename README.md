@@ -31,6 +31,7 @@ https://github.com/Flipkart/recyclerlistview
 - https://medium.com/horrible-hacks/things-i-wish-i-knew-about-redux-9924abf2f9e0
 - https://medium.com/onfido-tech/exploring-redux-sagas-cc1fca2015ee
 - Dev.to redux topic: https://dev.to/t/redux
+- Optimize RN application: https://blog.coinbase.com/optimizing-react-native-7e7bf7ac3a34
 
 
 ### List of useful react-native repos
